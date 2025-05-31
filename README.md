@@ -36,7 +36,7 @@
 
 ![Harshada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1234harshada&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshadarundhey&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1234harshada&layout=compact&theme=radical)
 
 ---
 
