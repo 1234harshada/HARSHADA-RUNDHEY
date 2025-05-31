@@ -1,7 +1,7 @@
 <h1 align="center">Hi , 👋 I'm HARSHADA </h1>
 <h3 align="center">A passionate Front-End Developer | MCA Graduate | Full Stack Learner</h3>
 
----
+
 
  🌱 I’m currently learning *Full Stack Web Development*
 
